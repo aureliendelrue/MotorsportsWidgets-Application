@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "9BZ9BHV2X8.com.delrue.aurelien.motorsports" ],
+             "components": [
+               {
+                  "/": "/*",
+                  "comment": "Matches all URL"
+               }
+             ]
+           }
+       ]
+   }
+}
